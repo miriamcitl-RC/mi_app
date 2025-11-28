@@ -1,2 +1,0 @@
-# mi_app
-Tarea
